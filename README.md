@@ -8,5 +8,4 @@ Data Sourced From: *https://www.kaggle.com/pablohfreitas/all-premier-league-matc
 
 Tools & Technologies Used: Google Colab, Python, sklearn, Pandas, Numpy
 
-
-![alt text](https://github.com/williamswarren/Intro-ML-Class-Final-Project/blob/main/Thumbnail%20premier_league.png)
+![Alt text](https://github.com/williamswarren/Intro-ML-Class-Final-Project/premier_league.png?raw=true)
